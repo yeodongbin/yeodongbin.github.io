@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Linux basic command"
+title:  "[Linux] Linux basic command"
 date:   2020-09-01 10:00:00 
 categories: linux
 ---
